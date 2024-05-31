@@ -5,7 +5,7 @@ author: Vipul Asri <vipulasri.2007@gmail.com>
 homepage: https://github.com/vipulasri/flutter_bubble_tab_indicator
 
 environment:
-  sdk: '>=2.12.0 <3.0.0'
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   flutter:
