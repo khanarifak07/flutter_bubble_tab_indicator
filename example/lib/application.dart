@@ -15,5 +15,5 @@ class CustomTabApp extends MaterialApp {
 final appTheme = new ThemeData(
   brightness: Brightness.light,
   primaryColor: Colors.white,
-  accentColor: Colors.blueAccent,
+  hintColor: Colors.blueAccent,
 );
